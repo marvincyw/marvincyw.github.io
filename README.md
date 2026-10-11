@@ -1,3 +1,4 @@
+<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
 # Hi there
 
 ## More to do next time: 
