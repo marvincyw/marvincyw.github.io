@@ -18,10 +18,8 @@ I make cool projects, read
 ## Projects
 ### UTWind WindturbineDesign Team
 ### UTAT Space System
-###
 
-<embed src="FEA on Ground Station.pdf" type="application/pdf" width="100%" height="600px" />
-
+### Ground Station Support Project
 <img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
 
 <img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
@@ -42,4 +40,7 @@ I make cool projects, read
 
 ### Sketches
 
-<img width="826" height="609" alt="Pitch Control System" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
+[Pitch Control System.pdf](https://github.com/user-attachments/files/33316746/Pitch.Control.System.pdf)
+
+
+[MIE243 Project Idea4 Sketch.pdf](https://github.com/user-attachments/files/33316745/MIE243.Project.Idea4.Sketch.pdf)
