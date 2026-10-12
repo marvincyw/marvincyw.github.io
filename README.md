@@ -1,4 +1,3 @@
-<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
 # Hi there
 
 ## More to do next time: 
@@ -22,3 +21,25 @@ I make cool projects, read
 ###
 
 <embed src="FEA on Ground Station.pdf" type="application/pdf" width="100%" height="600px" />
+
+<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
+
+<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
+
+<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
+
+<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
+
+<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
+
+<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
+
+<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
+
+<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
+
+<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
+
+### Sketches
+
+<img width="826" height="609" alt="Pitch Control System" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
