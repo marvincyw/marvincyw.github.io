@@ -22,13 +22,13 @@ Reading
 ### UTAT Space System
 
 ### Ground Station Support Project
-<img width="826" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
+<img width="800" height="609" alt="FEA on Ground Station" src="https://github.com/user-attachments/assets/1fc06943-18be-4a57-adc6-47aa5dd37854" />
 
 
 ### Sketches
 
-<img width="4284" height="712" alt="Pitch Control System" src="https://github.com/user-attachments/assets/266f2439-618e-44b0-9399-9be42d1cfebe" />
+<img width="800" height="609" alt="Pitch Control System" src="https://github.com/user-attachments/assets/266f2439-618e-44b0-9399-9be42d1cfebe" />
 
 
-<img width="2157" height="668" alt="MIE243 Project Idea4 Sketch" src="https://github.com/user-attachments/assets/10ffbcce-7577-49e0-a0d7-f6d98f7c43e2" />
+<img width="800" height="609" alt="MIE243 Project Idea4 Sketch" src="https://github.com/user-attachments/assets/10ffbcce-7577-49e0-a0d7-f6d98f7c43e2" />
 
