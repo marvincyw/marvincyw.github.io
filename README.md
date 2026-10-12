@@ -27,8 +27,8 @@ Reading
 
 ### Sketches
 
-<img width="4284" height="5712" alt="Pitch Control System" src="https://github.com/user-attachments/assets/266f2439-618e-44b0-9399-9be42d1cfebe" />
+<img width="4284" height="712" alt="Pitch Control System" src="https://github.com/user-attachments/assets/266f2439-618e-44b0-9399-9be42d1cfebe" />
 
 
-<img width="2157" height="1668" alt="MIE243 Project Idea4 Sketch" src="https://github.com/user-attachments/assets/10ffbcce-7577-49e0-a0d7-f6d98f7c43e2" />
+<img width="2157" height="668" alt="MIE243 Project Idea4 Sketch" src="https://github.com/user-attachments/assets/10ffbcce-7577-49e0-a0d7-f6d98f7c43e2" />
 
