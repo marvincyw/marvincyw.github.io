@@ -4,7 +4,6 @@
 1. Learn how to format a template
 2. Update more projects and info.
 
-
 ## Headding 2
 ### Who am I?
 I am a second year mechanical engineering student studying at UofT. I am passionate about mechatronics and coding???
@@ -13,7 +12,10 @@ I am a second year mechanical engineering student studying at UofT. I am passion
 I make cool projects, read 
 
 ## Hobbies
-
+Guitar
+Running
+Weightlifting
+Reading
 
 ## Projects
 ### UTWind WindturbineDesign Team
